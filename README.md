@@ -5,4 +5,4 @@ Pathway to productivity
 
 ## Demo
 
-https://progress-pulse-three.vercel.app/
+https://progres-pulse.vercel.app/
